@@ -1,0 +1,13 @@
+pages\BasePage.class
+tests\InformacoesUsuarioDropBoxTest.class
+suporte\Generator.class
+tests\InformacoesUsuarioFacebookTest.class
+pages\LoginPage.class
+suporte\Screenshot.class
+pages\MePage.class
+pages\LoginFormPage.class
+pages\SecretaPage.class
+pages\AddContactPage.class
+suporte\Web.class
+tests\InformacoesUsuarioTest.class
+tests\InformacoesUsuarioPageObjectsTest.class
