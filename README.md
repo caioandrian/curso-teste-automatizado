@@ -6,7 +6,7 @@ Conhecimento adquirido através de aulas práticas sobre como montar seu primeir
 
 <b>Principais Ferramentas utilizadas:</b>
 
-IntelliJ IDEA - ambiente de desenvolvimento integrado
+IntelliJ IDEA - Ambiente de desenvolvimento integrado
 
 Selenium WebDriver - API
 
@@ -17,6 +17,9 @@ Java - Linguagem de programação
 Selenium WebDriver ChromeDriver <br>
 (deverá ser a versão que atende a mesma versão do seu navegador chrome)
 <br/><br/>
+
+Browser Stack - Ambiente para executar Testes Automatizados na Nuvem
+https://www.browserstack.com/
 
 + Adicionar Dependências no projeto:
   (arquivo pom.xml)
