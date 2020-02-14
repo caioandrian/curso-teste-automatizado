@@ -1,6 +1,6 @@
 # Curso de Teste Automatizado - Selenium WebDriver em Java
 
-Conhecimento adquirido através de aulas práticas sobre como montar seu primeiro projeto de testes automatizados.
+Projeto desenvolvido durante as aulas práticas sobre como montar seu primeiro projeto de testes automatizados.
 
 <br>
 
